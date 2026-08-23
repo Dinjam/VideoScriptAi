@@ -54,7 +54,7 @@ except Exception:
 
 APP_NAME = "VideoScript AI"
 MAX_UPLOAD_MB = 2048
-DEFAULT_MODEL = "small"
+DEFAULT_MODEL = "base"
 
 st.set_page_config(
     page_title=APP_NAME,
