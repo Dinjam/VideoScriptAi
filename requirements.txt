@@ -1,5 +1,5 @@
 streamlit
-openai-whisper
+faster-whisper
 ffmpeg-python
 python-docx
 reportlab
