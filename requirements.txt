@@ -1,0 +1,6 @@
+streamlit
+openai-whisper
+ffmpeg-python
+python-docx
+reportlab
+groq
